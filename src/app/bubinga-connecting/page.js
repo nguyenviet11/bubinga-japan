@@ -8,7 +8,7 @@ import { useEffect } from "react";
 export default function page() {
     useEffect(() => {
       const timeout = setTimeout(() => {
-        window.location.href = "https://bubinga.com/ja/?partner_id=p45127p4133p0972";
+        window.location.href = "https://hubbrokers.vn/top-fx-bubinga";
       }, 600);
       return () => clearTimeout(timeout);
       }, []);
